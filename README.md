@@ -18,27 +18,19 @@
 ## 🛠️ Technologies Used
 
 - ASP.NET (C#)
-- Razor Pages or MVC (depending on your implementation)
+- Razor Pages And MVC 
 - Entity Framework
-- SQL Server
+- SSMS
 - HTML/CSS/JavaScript
 - Visual Studio
 
 ---
 
-## 🖥️ Screenshots
-
-> *(Add images of your app here if available)*  
-> Example:  
-> ![Homepage](screenshots/homepage.png)  
-> ![Article View](screenshots/article-view.png)
-
----
 
 ## 📦 Installation & Setup
 
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/YourUsername/Mqalte.git
-cd Mqalte
+git clone https://github.com/Mohamad-Adwan/My-Artical-Mqalte
+cd My-Artical-Mqalte
