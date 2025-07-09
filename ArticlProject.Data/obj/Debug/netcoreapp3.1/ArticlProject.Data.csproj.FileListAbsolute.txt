@@ -1,0 +1,16 @@
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Data\bin\Debug\netcoreapp3.1\ArticlProject.Data.deps.json
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Data\bin\Debug\netcoreapp3.1\ArticlProject.Data.dll
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Data\bin\Debug\netcoreapp3.1\ArticlProject.Data.pdb
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Data\obj\Debug\netcoreapp3.1\ArticlProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Data\obj\Debug\netcoreapp3.1\ArticlProject.Data.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Data\obj\Debug\netcoreapp3.1\ArticlProject.Data.AssemblyInfo.cs
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Data\obj\Debug\netcoreapp3.1\ArticlProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Data\obj\Debug\netcoreapp3.1\ArticlProject.Data.dll
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Data\obj\Debug\netcoreapp3.1\ArticlProject.Data.pdb
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Data\bin\Debug\netcoreapp3.1\ArticlProject.Data.runtimeconfig.json
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Data\bin\Debug\netcoreapp3.1\ArticlProject.Data.runtimeconfig.dev.json
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Data\bin\Debug\netcoreapp3.1\ArticlProject.Core.dll
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Data\bin\Debug\netcoreapp3.1\ArticlProject.Core.pdb
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Data\obj\Debug\netcoreapp3.1\ArticlProject.Data.csproj.AssemblyReference.cache
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Data\obj\Debug\netcoreapp3.1\ArticlPr.1789D9D7.Up2Date
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Data\obj\Debug\netcoreapp3.1\ArticlProject.Data.genruntimeconfig.cache

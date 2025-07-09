@@ -1,0 +1,9 @@
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Core\bin\Debug\netcoreapp3.1\ArticlProject.Core.deps.json
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Core\bin\Debug\netcoreapp3.1\ArticlProject.Core.dll
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Core\bin\Debug\netcoreapp3.1\ArticlProject.Core.pdb
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Core\obj\Debug\netcoreapp3.1\ArticlProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Core\obj\Debug\netcoreapp3.1\ArticlProject.Core.AssemblyInfoInputs.cache
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Core\obj\Debug\netcoreapp3.1\ArticlProject.Core.AssemblyInfo.cs
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Core\obj\Debug\netcoreapp3.1\ArticlProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Core\obj\Debug\netcoreapp3.1\ArticlProject.Core.dll
+C:\Users\Legion\source\repos\ArticlProject\ArticlProject.Core\obj\Debug\netcoreapp3.1\ArticlProject.Core.pdb
